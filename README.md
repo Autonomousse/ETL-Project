@@ -1,5 +1,4 @@
 # ETL-Project
-ETL Project 
 
 ## Overview
 Timeline: 1 week
